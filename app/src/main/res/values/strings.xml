@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">myBiography</string>
+    <string name="nama_aplikasi">My Biography</string>
+    <string name="sambutan">Welcome to my First App</string>
+    <string name="isisambutan">This application contains about the creation of my first Android application, which contains my brief biodata and a link to my GitHub</string>
+    <string name="button1">Go To Profile</string>
+    <string name="button2">Go To My Github</string>
+    <string name="button3">Share</string>
+    <string name="nim">Data Profile</string>
+    <string name="name">Data Profile</string>
+    <string name="batchmajor">Data Profile</string>
+    <string name="selfdesc">Data Profile</string>
+    <string name="my_profile_picture">My Profile Picture</string>
+</resources>

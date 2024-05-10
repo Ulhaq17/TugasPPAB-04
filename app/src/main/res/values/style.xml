@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextContent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TextContent.Center">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="TextContent.Center.Size20">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextContent.Center.Size15">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="TextContent.Center.Size20.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
